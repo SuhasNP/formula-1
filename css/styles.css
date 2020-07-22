@@ -1,0 +1,114 @@
+body
+{
+    text-align: center;
+}
+h1
+{
+    margin-left: 7%;
+}
+h2
+{
+    padding-bottom: 7%;
+    text-align: center;
+}
+.f1logo
+{
+    height:250px;
+    width:250px;
+    position: absolute;
+    right:175px;
+    top: 100px;
+}
+.navbar-brand
+{
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.nav-item
+{
+    padding: 0 18px;
+}
+#title
+{
+    background-color: red;
+    color: white;
+    text-align: left; 
+    position: relative;
+}
+.title-para
+{
+    line-height: 1.75;
+    margin-top: 7%;
+    margin-left: 7%;
+}
+.headanddes
+{
+    padding-top: 25px;
+}
+.container-fluid
+{
+    padding: 0 15% 7%;
+}
+#schedule
+{
+    padding: 7% 15%;
+}
+.seacal
+{
+    width: 18rem;
+    text-align: center;
+}
+.driver-img
+{
+    width: 30%;
+    border-radius: 100%;
+}
+.team-img
+{
+    width: 30%;
+}
+.f1tvimg
+{
+    width: 50%;
+    display: block;
+    text-align: center;
+}
+#drivers
+{
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding: 7% 15%;
+}
+#teams
+{       
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding: 7% 15%;
+}
+#F1tv
+{
+    text-align: center;
+    padding: 7% 15%;
+}
+.cta-button
+{
+    margin: 7% 3% 0 0;
+}
+#footer
+{
+    text-align: center;
+}
+@media (max-width:1000px)
+{
+    .f1logo
+    {
+        position: static;
+        margin: 7% 0;
+    }
+    #title
+    {
+        text-align: center;
+    }
+}
